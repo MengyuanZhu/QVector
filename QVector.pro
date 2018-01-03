@@ -26,3 +26,5 @@ RESOURCES += \
     source.qrc
 
 RC_ICONS += icon.ico
+
+LIBS += -lglut -lGLU
